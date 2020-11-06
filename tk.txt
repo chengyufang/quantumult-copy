@@ -3,4 +3,3 @@ vmess=jmnt.speed17.club:50000, method=aes-128-gcm, password=69a75a78-5ecb-4ef4-8
 vmess=ucloud.ddns-only.xyz:17609, method=aes-128-gcm, password=c1fb8e41-2245-3662-a430-e8ce4dbaefed, obfs=ws, obfs-host=hinet-148.ddns-only.xyz, obfs-uri=/jdy, fast-open=false, udp-relay=false, tag=台湾 解锁流媒体|TG频道(@baipiaojiedian)
 vmess=waxz.liyun.edu.pl:37414, method=aes-128-gcm, password=309894b8-6354-3c86-a68a-1396ba02f989, obfs=ws, obfs-host=xtom.com, obfs-uri=/jiolc, fast-open=false, udp-relay=false, tag=日本 解锁流媒体|TG频道(@baipiaojiedian)
 vmess=s249.snode.xyz:443, method=aes-128-gcm, password=fe7512ed-1d53-3f6f-9ad0-ea4e391014cc, obfs=wss, obfs-host=s249.snode.xyz, obfs-uri=/panel, tls-verification=false, fast-open=false, udp-relay=false, tag=新加坡TG(@baipiaojiedian)
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUEAxOTQuMTI0LjMyLjg6OTAwMw==#%E8%8B%B1%E5%9B%BD%7CTG%E9%A2%91%E9%81%93%28%40baipiaojiedian%29
