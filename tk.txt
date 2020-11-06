@@ -1,1 +1,2 @@
 vmess://eyJhZGQiOiJ6aC5zcGVlZG5ldHdvcmsueHl6IiwiYWlkIjoiMiIsImhvc3QiOiJ2LnFxLmNvbSIsImlkIjoiNjlhNzVhNzgtNWVjYi00ZWY0LTg4ZjctYWM0YTBlYTJkNTMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YxIiwicG9ydCI6IjUwMDAxIiwicHMiOiLml6XmnKzlpYjpo558VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess=jmnt.speed17.club:50000, method=aes-128-gcm, password=69a75a78-5ecb-4ef4-88f7-ac4a0ea2d530, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, udp-relay=false, tag=香港移动优化|TG频道(@baipiaojiedian)
