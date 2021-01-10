@@ -93,7 +93,7 @@
 "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
 "0 10 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
     
-"30 23 * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
+"30 23 * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",
  
 "0 9 * * * https://raw.githubusercontent.com/chengyufang/quantumult-copy/master/wyyyy.js,tag=网易云音乐刷歌",
         
