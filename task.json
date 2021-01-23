@@ -57,11 +57,13 @@
 "0 10 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
      
 "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js, tag=升级商品, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true",
-"0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js, tag=升级商品, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true",
 "0 9 */2 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js, tag=升级货架, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true",
 "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=🐶京小超领蓝币, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true",
+ "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=工厂商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxgc.png, enabled=true",
         
 "0 9 * * * https://raw.githubusercontent.com/chengyufang/quantumult-copy/master/wyyyy.js,tag=网易云音乐刷歌",
+        
+"30 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
         
 "1 0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js,tag=机场签到,img-url=https://raw.githubusercontent.com/Orz-3/task/master/airport.png",
 
