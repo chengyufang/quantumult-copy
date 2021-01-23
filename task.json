@@ -63,7 +63,7 @@
         
 "0 9 * * * https://raw.githubusercontent.com/chengyufang/quantumult-copy/master/wyyyy.js,tag=网易云音乐刷歌",
         
-"30 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"30 * * * * https://raw.githubusercontent.com/DoveBoy/jx_cfd/main/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
         
 "1 0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js,tag=机场签到,img-url=https://raw.githubusercontent.com/Orz-3/task/master/airport.png",
 
