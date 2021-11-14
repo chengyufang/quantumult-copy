@@ -9,7 +9,6 @@
 "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/hellbike.png",
 "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png",
 "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png",
-"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png",
 "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png",
 "0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
 "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://raw.githubusercontent.com/Orz-3/task/master/umetrip.png",
